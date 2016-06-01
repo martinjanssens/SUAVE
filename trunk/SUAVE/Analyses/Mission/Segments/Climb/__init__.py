@@ -10,3 +10,4 @@ from Linear_Mach_Constant_Rate import Linear_Mach_Constant_Rate
 from Linear_Speed_Constant_Rate import Linear_Speed_Constant_Rate
 from Unknown_Throttle import Unknown_Throttle
 from Constant_Speed_Constant_Angle import   Constant_Speed_Constant_Angle
+from Constant_Speed_Constant_AOA import   Constant_Speed_Constant_AOA

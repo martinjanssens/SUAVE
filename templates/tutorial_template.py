@@ -68,7 +68,7 @@ def define_mission(vehicle):
 
     mission = SUAVE.Analyses.Mission.Sequential_Segments()
     mission.tag = 'The Test Mission'
-    
+
     # ------------------------------------------------------------------    
     #   Mission definition complete    
     # ------------------------------------------------------------------
